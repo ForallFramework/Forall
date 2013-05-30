@@ -1,3 +1,6 @@
 [submodule "packages/core"]
 	path = packages/core
 	url = git@github.com:ForallFramework/core.package.git
+[submodule "packages/loader"]
+	path = packages/loader
+	url = git@github.com:Avaq/loader.package.git

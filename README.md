@@ -1,8 +1,8 @@
-# Forall(Apache) - Active Development Version
+# Forall(Apache) - Version 0.0.1 Alpha
 
 ## Introduction
 
-An environment for the Forall Frameworks packages. This one is made for Apache.
+An Apache environment for the Forall Frameworks packages.
 
 ## Change log
 
