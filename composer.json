@@ -1,0 +1,37 @@
+{
+  
+  "name": "forall.forall",
+  "description": "An Apache environment for the Forall Frameworks packages.",
+  "type": "project",
+  "license": "MIT",
+  
+  "authors": [
+    {
+      "name": "Aldwin 'Avaq' Vlasblom",
+      "email": "aldwin.vlasblom@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  
+  "support": {
+    "source": "https://github.com/ForallFramework/Forall",
+    "issues": "https://github.com/ForallFramework/Forall/issues"
+  },
+  
+  "require": {
+    "forall/core": "*"
+  },
+  
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/ForallFramework/core.package"
+    }
+  ],
+  
+  "config": {
+    "vendor-dir": "packages",
+    "bin-dir": "bin"
+  }
+  
+}
