@@ -1,9 +1,0 @@
-[submodule "packages/core"]
-	path = packages/core
-	url = git@github.com:ForallFramework/core.package.git
-[submodule "packages/packages"]
-	path = packages/packages
-	url = git@github.com:ForallFramework/packages.package.git
-[submodule "packages/events"]
-	path = packages/events
-	url = git@github.com:ForallFramework/events.package.git
