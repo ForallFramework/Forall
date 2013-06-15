@@ -19,13 +19,25 @@
   },
   
   "require": {
-    "forall/core": "*"
+    "forall/core": "*",
+    "forall/loader": "*",
+    "forall/events": "*"
   },
+  
+  "minimum-stability": "dev",
   
   "repositories": [
     {
       "type": "vcs",
       "url": "https://github.com/ForallFramework/core.package"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ForallFramework/loader.package"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ForallFramework/events.package"
     }
   ],
   
