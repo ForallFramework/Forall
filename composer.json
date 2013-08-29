@@ -1,7 +1,7 @@
 {
   
-  "name": "forall.forall",
-  "description": "An Apache environment for the Forall Frameworks packages.",
+  "name": "forall.forall-dev",
+  "description": "A development environment for the Forall packages.",
   "type": "project",
   "license": "MIT",
   
@@ -19,9 +19,7 @@
   },
   
   "require": {
-    "forall/core": "*",
-    "forall/loader": "*",
-    "forall/events": "*"
+    "forall/core": "*"
   },
   
   "minimum-stability": "dev",
@@ -33,11 +31,19 @@
     },
     {
       "type": "vcs",
-      "url": "https://github.com/ForallFramework/loader.package"
+      "url": "https://github.com/ForallFramework/wrap.package"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ForallFramework/debug.package"
     },
     {
       "type": "vcs",
       "url": "https://github.com/ForallFramework/events.package"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/ForallFramework/log.package"
     }
   ],
   

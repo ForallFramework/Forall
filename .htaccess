@@ -1,3 +1,8 @@
 Deny from All
-ErrorDocument 403 /Forall/packages/forall/core/main.php
-ErrorDocument 404 /Forall/packages/forall/core/main.php
+
+<Files main.php>
+  Allow from All
+</Files>
+
+ErrorDocument 403 /Forall/main.php
+ErrorDocument 404 /Forall/main.php

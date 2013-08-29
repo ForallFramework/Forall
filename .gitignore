@@ -1,3 +1,7 @@
-.gitmodules
-/packages/*
 composer.lock
+logs
+packages/*
+!packages/forall
+packages/forall/*
+!packages/forall/.initializers
+!packages/forall/.settings
