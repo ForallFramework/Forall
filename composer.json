@@ -1,6 +1,6 @@
 {
   
-  "name": "forall.forall-dev",
+  "name": "forall/forall-dev",
   "description": "A development environment for the Forall packages.",
   "type": "project",
   "license": "MIT",
@@ -19,7 +19,8 @@
   },
   
   "require": {
-    "forall/core": "*"
+    "forall/core": "*",
+    "forall/debug": "*"
   },
   
   "minimum-stability": "dev",

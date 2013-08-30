@@ -1,5 +1,4 @@
 composer.lock
-logs
 packages/*
 !packages/forall
 packages/forall/*

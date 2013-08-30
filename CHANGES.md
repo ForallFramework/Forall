@@ -1,3 +1,10 @@
+#### [Version 0.1.0 Beta](https://github.com/ForallFramework/core.package/tree/0.1.0-beta)
+_30-Aug-2013_
+
+* Added the debug package to dependencies. You'd want it for development.
+* Fixed composer.json::"name". It had a `.` instead of a `/` as separator.
+* Added a logs folder.
+
 #### [Version 0.0.4 Alpha](https://github.com/ForallFramework/core.package/tree/0.0.4-alpha)
 _15-June-2013_
 

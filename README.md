@@ -1,4 +1,4 @@
-# Forall development - Version 0.0.4 Alpha
+# Forall development - Version 0.1.0 Beta
 
 ## Introduction
 
